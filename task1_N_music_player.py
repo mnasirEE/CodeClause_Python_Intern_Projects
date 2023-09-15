@@ -5,7 +5,7 @@ Created on Fri Sep  15 12:30:16 2023
 """
 
 
-''' Task 1 : Music Player 
+''' Task 1 : Music Player in Python 
 '''
 
 

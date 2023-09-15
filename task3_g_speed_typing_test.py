@@ -4,6 +4,15 @@ Created on Tue Sep  5 20:37:34 2023
 
 @author: M.Nasir
 """
+"""
+Created on Tue Sep  5 21:43:16 2023
+
+@author: M.Nasir
+"""
+
+
+''' Task 3 : Speed Typing Test in Python 
+'''
 # Typing speed test
 
 import time

@@ -6,7 +6,7 @@ Created on Tue Sep  5 21:43:16 2023
 """
 
 
-''' Task 2 : Calculator 
+''' Task 2 : Calculator in Python 
 '''
 
 import numpy as np
